@@ -8,7 +8,7 @@ class TapeDeckTestDrive {
         t.canRecord = true;
         t.playTape();
         
-        if(t.canRecord = true) {
+        if(t.canRecord == true) {
             t.recordTape();
         }
     }
